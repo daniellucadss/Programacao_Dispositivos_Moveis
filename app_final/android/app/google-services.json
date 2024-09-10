@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473455160617",
+    "project_id": "app-final-1ac8c",
+    "storage_bucket": "app-final-1ac8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473455160617:android:d2576727c57b717d009b38",
+        "android_client_info": {
+          "package_name": "br.com.luciapps.app_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFNuCKXkgnWjz4acbDNS5IaH0UE8L3LXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
